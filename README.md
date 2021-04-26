@@ -9,7 +9,7 @@ SelectedAssets:The assets selected when opening the menu.
 virtual void ConstructMenu(FMenuBuilder &MenuBuilder):override it to build submenus or menu items.  
 virtual void Reset():Called when need reset the object.
 virtual void ReleaseMemory():Called when the object begin destroy.  
-}
+}  
 LevelEditor Extender
 {
 UActorActionAssist:LevelEditor Menu Extender, Inherit it to implement new menu items or submenu functions.  
