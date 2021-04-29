@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "AssetActionAssist.h"
-#include "AssetActionAssist_Renamer.generated.h"
+#include "AssetActionAssist_Example.generated.h"
 
 UCLASS()
 class UAssetActionAssist_Example : public UAssetActionAssist

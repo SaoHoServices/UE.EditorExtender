@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "ActorActionAssist.h"
-#include "ActorActionAssist_Renamer.generated.h"
+#include "ActorActionAssist_Example.generated.h"
 
 UCLASS()
 class UActorActionAssist_Example : public UActorActionAssist
